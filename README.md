@@ -12,7 +12,7 @@ Steps to start the project:
 
 Health check accessible at  http://127.0.0.1:8000/ 
 
-Api's docs are accessible at http://127.0.0.1:8000/ 
+Api's docs are accessible at http://127.0.0.1:8000/docs
 
 
 DOCKER SETUP:
